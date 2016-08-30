@@ -1,19 +1,4 @@
-name: CampFires
-favicon: null
-layout_spectrum: 0.11329823173582554
 typography_spectrum: 0.9974882013630122
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,19 @@ color:
   lightness: 0.8157994772773236
   saturation: 0.9752963013015687
   rhythmicContrast: 0.8116827320773154
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.11329823173582554
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: CampFires
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
